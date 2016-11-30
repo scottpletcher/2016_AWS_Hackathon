@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: #555;
+    background-color: #5f9636;
+}
+
+h1 {
+    text-align: center-right;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: #000000;
+    font-weight: normal;
+    width: 450px;
+}
+
+table {
+	text-align: center;
+    width: 580px;
+    padding: 10px;
+    background-color: #89bd5d;
+}
+
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
